@@ -38,7 +38,7 @@ informative:
   FlexIP: I-D.moskowitz-flexip-addressing
   Flexible_IP: I-D.jia-flex-ip-address-structure
   CHALLEN: I-D.jia-intarea-scenarios-problems-addressing
-  SOIP: I-D.service-oriented-ip
+  SOIP: I-D.jiang-service-oriented-ip
   FHE:  I-D.jiang-asymmetric-ipv6
 
   IEEE802.1TSNTG:
