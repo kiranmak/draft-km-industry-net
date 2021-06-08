@@ -610,7 +610,11 @@ Table of Contents
               DOI 10.17487/RFC8724, April 2020,
               <https://datatracker.ietf.org/doc/html/rfc8724>.
 
-   [SOIP]     "*** BROKEN REFERENCE ***".
+   [SOIP]     Carpenter, B., Jiang, S., and G. Li, "Service Oriented
+              Internet Protocol", Work in Progress, Internet-Draft,
+              draft-jiang-service-oriented-ip-03, 14 May 2020,
+              <https://datatracker.ietf.org/doc/html/draft-jiang-
+              service-oriented-ip-03.txt>.
 
    [SURV]     Galloway, B. and G. Hancke, "Introduction to Industrial
               Control Networks", IEEE Communications Surveys &
