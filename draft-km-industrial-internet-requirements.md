@@ -1,13 +1,13 @@
 ---
 abbrev: industrial-network-req
-docname: draft-km-industrial-internet-requirements-00
+docname: draft-iotops-km-industrial-internet-requirements-00
 title: Requirements and Scenarios for Industry Internet Addressing 
 date:  false
 category: info
 
 ipr: trust200902
-area: INTAREA
-workgroup: Independent Submission
+area: OPS
+workgroup: IOTOPS
 keyword: Internet-Draft
 
 stand_alone: yes
